@@ -1,0 +1,4 @@
+2826f24a-03d9-15ed-2bd4-5e6bbc47e367
+{}
+EndGameNode {"thisExecutor":{"Guid":{"part1":14595853876617817669,"part2":6502181010241050838}},"Position":{"value":{"X":240.0,"Y":0.0}},"Comment":{"value":""},"InputFields":{},"OutputFields":{},"Version":0,"Guid":{"part1":3294350426593970481,"part2":1479052357348534841}}
+StartNode {"Position":{"value":{"X":0.0,"Y":0.0}},"Comment":{"value":""},"InputFields":{},"OutputFields":{},"exe_nextExecutor":{"ConnectedFieldGuid":{"value":{"part1":14595853876617817669,"part2":6502181010241050838}},"Guid":{"part1":11132043323360447036,"part2":5073324827358852234}},"Version":0,"Guid":{"part1":3472023736549943483,"part2":664744033946915480}}
