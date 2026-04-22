@@ -1,2 +1,2 @@
 95ac3e33-eb9d-528b-44e7-9738e344eead
-{"Url":{"value":"C:\\Art\\LChick\\cultBG3.png"}}
+{"Url":{"value":"https://github.com/GodlyHamster/CultGame-CGA/blob/develop/Images/Uploaded/background_placeholder.png?raw=true"}}

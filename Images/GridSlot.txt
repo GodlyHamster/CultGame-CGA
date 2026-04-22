@@ -1,0 +1,2 @@
+a6d09a34-e7ad-d387-3916-de7f2163bec1
+{"Url":{"value":"https://github.com/GodlyHamster/CultGame-CGA/blob/develop/Images/Uploaded/empty_card_border.png?raw=true"}}

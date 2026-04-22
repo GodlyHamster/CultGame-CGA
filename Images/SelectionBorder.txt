@@ -1,2 +1,2 @@
 12c558a2-8fa3-7c48-6ed4-cf6c4598684f
-{"Url":{"value":"C:\\Users\\woute\\Pictures\\CGA\\CultGame\\selection_border.png"}}
+{"Url":{"value":"https://github.com/GodlyHamster/CultGame-CGA/blob/develop/Images/Uploaded/selection_border.png?raw=true"}}
