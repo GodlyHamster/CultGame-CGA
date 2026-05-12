@@ -1,0 +1,2 @@
+ff47b430-0196-22e3-32f5-52f73d7b6ce5
+{"Parameters":{"value":[{"Name":{"value":"target"},"DataType":{"value":6},"DefaultValue":{},"Guid":{"part1":5299557664256229434,"part2":12534685100857978095}},{"Name":{"value":"killedTarget"},"DataType":{"value":4},"DefaultValue":{"BooleanFieldValue":{"value":false}},"Guid":{"part1":10117616065973308568,"part2":996643475423325689}}]}}
