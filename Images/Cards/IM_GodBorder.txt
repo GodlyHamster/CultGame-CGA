@@ -1,0 +1,2 @@
+45189a91-f038-73db-1135-4a66a323f6a7
+{"Url":{"value":"https://github.com/GodlyHamster/CultGame-CGA/blob/develop/Images/Uploaded/god_border.png?raw=true"}}
