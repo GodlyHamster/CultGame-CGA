@@ -1,0 +1,2 @@
+65ca6f43-719c-bead-51bf-580809dc24a2
+{"Url":{"value":"C:\\Users\\nicol\\OneDrive\\Desktop\\Cardgame Arena\\Cult Game\\CultGame-CGA\\Images\\Cards\\UI\\PlaceholderStatusIcons\\Keywords\\enforcerIcon.png"}}

@@ -1,0 +1,2 @@
+29828c1c-e290-8983-2a6c-7013cb59c871
+{"Url":{"value":"C:\\Users\\nicol\\OneDrive\\Desktop\\Cardgame Arena\\Cult Game\\CultGame-CGA\\Images\\Cards\\UI\\PlaceholderStatusIcons\\Keywords\\twoCommandsIcon.png"}}

@@ -1,0 +1,2 @@
+b3c93db7-4f3f-052b-f74f-a74dd9d5e7ad
+{"Url":{"value":"C:\\Users\\nicol\\OneDrive\\Desktop\\Cardgame Arena\\Cult Game\\CultGame-CGA\\Images\\Cards\\UI\\PlaceholderStatusIcons\\Keywords\\sacrificeIcon.png"}}

@@ -1,0 +1,2 @@
+9bbecf7a-a852-c8f4-881d-efb64657fd57
+{"Url":{"value":"C:\\Users\\nicol\\OneDrive\\Desktop\\Cardgame Arena\\Cult Game\\CultGame-CGA\\Images\\Cards\\UI\\PlaceholderStatusIcons\\Keywords\\apprenticeIcon.png"}}

@@ -1,0 +1,2 @@
+d10fdc89-3353-7924-4e55-408ffb0cc317
+{"Url":{"value":"C:\\Users\\nicol\\OneDrive\\Desktop\\Cardgame Arena\\Cult Game\\CultGame-CGA\\Images\\Cards\\UI\\PlaceholderStatusIcons\\protectedIcon.png"}}

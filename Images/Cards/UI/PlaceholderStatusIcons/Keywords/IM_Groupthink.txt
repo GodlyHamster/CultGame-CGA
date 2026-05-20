@@ -1,0 +1,2 @@
+c74cd3f9-46eb-2c93-eecb-59a511aad6b8
+{"Url":{"value":"C:\\Users\\nicol\\OneDrive\\Desktop\\Cardgame Arena\\Cult Game\\CultGame-CGA\\Images\\Cards\\UI\\PlaceholderStatusIcons\\Keywords\\groupthinkIcon.png"}}

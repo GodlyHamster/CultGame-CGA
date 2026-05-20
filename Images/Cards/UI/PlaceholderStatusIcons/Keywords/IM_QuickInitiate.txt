@@ -1,0 +1,2 @@
+019ee8da-a5cb-5cd9-4510-4389548e61e5
+{"Url":{"value":"C:\\Users\\nicol\\OneDrive\\Desktop\\Cardgame Arena\\Cult Game\\CultGame-CGA\\Images\\Cards\\UI\\PlaceholderStatusIcons\\Keywords\\quickInitiateIcon.png"}}

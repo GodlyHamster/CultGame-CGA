@@ -1,0 +1,2 @@
+316874be-0915-f33a-1a0c-36189c6a702d
+{"Url":{"value":"C:\\Users\\nicol\\OneDrive\\Desktop\\Cardgame Arena\\Cult Game\\CultGame-CGA\\Images\\Cards\\UI\\PlaceholderStatusIcons\\relickerRightIcon.png"}}

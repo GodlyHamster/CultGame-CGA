@@ -1,0 +1,2 @@
+56f030cc-52b4-ee99-8fa7-d794abd54f5a
+{"Url":{"value":"C:\\Users\\nicol\\OneDrive\\Desktop\\Cardgame Arena\\Cult Game\\CultGame-CGA\\Images\\Cards\\UI\\PlaceholderStatusIcons\\Keywords\\splashAttackIcon.png"}}
