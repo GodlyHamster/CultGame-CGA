@@ -1,2 +1,2 @@
 95ac3e33-eb9d-528b-44e7-9738e344eead
-{"Url":{"value":"C:\\Users\\woute\\Documents\\school\\hku\\jaar3\\Context\\ArenaGames\\CultGame-CGA\\Images\\Uploaded\\table_background.png"}}
+{"Url":{"value":"https://github.com/GodlyHamster/CultGame-CGA/blob/develop/Images/Uploaded/table_background.png?raw=true"}}
