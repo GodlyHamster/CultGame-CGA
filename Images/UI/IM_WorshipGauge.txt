@@ -1,2 +1,2 @@
 3a36de99-4c88-a4d9-d181-5f8d0a95082f
-{"Url":{"value":"C:\\Users\\woute\\Documents\\school\\hku\\jaar3\\Context\\ArenaGames\\CultGame-CGA\\Images\\Uploaded\\UI\\worshipGauge.png"}}
+{"Url":{"value":"https://github.com/GodlyHamster/CultGame-CGA/blob/develop/Images/Uploaded/UI/worshipGauge.png?raw=true"}}

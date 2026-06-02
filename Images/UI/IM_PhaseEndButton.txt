@@ -1,2 +1,2 @@
 8eb3bb99-4097-5683-59aa-058f08664c9f
-{"Url":{"value":"C:\\Users\\woute\\Documents\\school\\hku\\jaar3\\Context\\ArenaGames\\CultGame-CGA\\Images\\Uploaded\\UI\\phasePasserFrame.png"}}
+{"Url":{"value":"https://github.com/GodlyHamster/CultGame-CGA/blob/develop/Images/Uploaded/UI/phasePasserFrame.png?raw=true"}}
