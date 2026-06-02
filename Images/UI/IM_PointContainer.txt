@@ -1,0 +1,2 @@
+be1b9139-90bb-8bfa-dcfd-58998cbe8cff
+{"Url":{"value":"https://github.com/GodlyHamster/CultGame-CGA/blob/develop/Images/Uploaded/UI/costBoxes.png?raw=true"}}
