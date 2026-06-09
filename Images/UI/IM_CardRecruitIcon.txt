@@ -1,0 +1,2 @@
+b7dac1b3-05f2-1ab8-d5f7-ea0a6bb430ce
+{"Url":{"value":"https://github.com/GodlyHamster/CultGame-CGA/blob/develop/Images/Uploaded/UI/recruitPointCardIcon.png?raw=true"}}
