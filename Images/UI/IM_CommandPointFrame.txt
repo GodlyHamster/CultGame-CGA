@@ -1,0 +1,2 @@
+c1e3d3c6-76d4-cf96-27c1-709e266c3a3d
+{"Url":{"value":"https://github.com/GodlyHamster/CultGame-CGA/blob/develop/Images/Uploaded/UI/comandPointsFrame.png?raw=true"}}
