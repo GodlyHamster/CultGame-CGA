@@ -1,2 +1,2 @@
 10773bcd-2d6c-d669-9ea7-43a76871c207
-{"Url":{"value":"C:\\Users\\woute\\Documents\\school\\hku\\jaar3\\Context\\ArenaGames\\CultGame-CGA\\Images\\Uploaded\\Cards\\plaguedoctor.png"}}
+{"Url":{"value":"https://github.com/GodlyHamster/CultGame-CGA/blob/develop/Images/Uploaded/Cards/plaguedoctor.png?raw=true"}}

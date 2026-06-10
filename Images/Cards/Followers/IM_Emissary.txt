@@ -1,2 +1,2 @@
 d7580ba4-67f2-205b-5ab4-90e4706782e4
-{"Url":{"value":"C:\\Users\\woute\\Documents\\school\\hku\\jaar3\\Context\\ArenaGames\\CultGame-CGA\\Images\\Uploaded\\Cards\\pamphleteer.png"}}
+{"Url":{"value":"https://github.com/GodlyHamster/CultGame-CGA/blob/develop/Images/Uploaded/Cards/pamphleteer.png?raw=true"}}

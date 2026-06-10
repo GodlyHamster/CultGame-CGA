@@ -1,2 +1,2 @@
 6a6f19a7-94ee-7bcd-579a-f0726d3741ff
-{"Url":{"value":"C:\\Users\\woute\\Documents\\school\\hku\\jaar3\\Context\\ArenaGames\\CultGame-CGA\\Images\\Uploaded\\Cards\\apprentice.png"}}
+{"Url":{"value":"https://github.com/GodlyHamster/CultGame-CGA/blob/develop/Images/Uploaded/Cards/apprentice.png?raw=true"}}
