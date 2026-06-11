@@ -1,0 +1,2 @@
+adf594cc-ce1c-e8f2-13bd-77dc6ce4175f
+{"Url":{"value":"https://github.com/GodlyHamster/CultGame-CGA/blob/develop/Images/Uploaded/UI/sacrificeIcon.png?raw=true"}}
